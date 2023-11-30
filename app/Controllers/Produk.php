@@ -33,4 +33,8 @@ class Produk extends BaseController
     {
         echo $slugProduk;
     }
+
+    public function newFunction() {
+        echo "Hello, World!";
+    }
 }
