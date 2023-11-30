@@ -35,6 +35,6 @@ class Produk extends BaseController
     }
 
     public function newFunction() {
-        echo "Hello, World!";
+        echo "Hello, World! From localhost";
     }
 }
